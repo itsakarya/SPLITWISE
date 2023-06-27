@@ -1,0 +1,6 @@
+.landing {
+  display: flex;
+  gap: 3rem;
+  padding-top: 2rem;
+  padding-left: 7rem;
+}

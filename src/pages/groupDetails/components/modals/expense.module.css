@@ -1,0 +1,12 @@
+.paidBy {
+  display: flex;
+  gap: 12px;
+}
+.splitAmong {
+  display: flex;
+  gap: 15px;
+}
+.splitType {
+  display: flex;
+  gap: 0.8rem;
+}

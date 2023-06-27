@@ -1,0 +1,24 @@
+.profile {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  margin-top: 1.5rem;
+  height: 80vh;
+  /* background-color: #f7f7f7; */
+  width: 60vw;
+}
+.profile_container {
+  height: 40vh;
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 4px 4px 4px white;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 100px;
+  border-radius: 1rem;
+  /* justify-content: center; */
+}

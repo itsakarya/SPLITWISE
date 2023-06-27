@@ -1,0 +1,18 @@
+.group__Container {
+  height: 80vh;
+  width: 65vw;
+  background-color: #f7f7f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+.container {
+  height: 60vh;
+  width: 40vw;
+  text-align: center;
+}
+
+.button {
+  height: 3rem;
+}

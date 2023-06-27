@@ -1,0 +1,9 @@
+.Sidebar {
+  height: 80vh;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  border-radius: 1rem;
+}

@@ -1,0 +1,13 @@
+.balanceSheet {
+  width: 33.33%;
+  height: 113px;
+  box-shadow: 8px 8px 8px white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
